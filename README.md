@@ -1,3 +1,9 @@
+Preview: https://main--frescopa-demo--vlab19-us.aem.page/
+
+Live: https://main--frescopa-demo--vlab19-us.aem.live/
+
+
+
 # Frescopa Site Project
 Based on the boilerplate for AEM Authoring with Edge Delivery Services projects that integrate with Adobe Commerce.
 
