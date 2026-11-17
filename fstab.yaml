@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p240102-e2401504.adobeaemcloud.com/bin/franklin.delivery/vlab19-us/frescopa/main"
+    type: "markup"
+    suffix: ".html"
